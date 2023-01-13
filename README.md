@@ -1,5 +1,18 @@
-# 
+# Security Methods
 
+Textbook: PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide (5th Edition) Written by Larry Ullman
+
+Complete the following from the chapter's Pursue section:
+
+In Chapter 2, you updated the form (reservations.html in Pacific Trails Case Study from SDEV-1021) to validate the Date and Nights fields. Using the same form, update it to make use of the Filter function for email validation, and the spam_scrubber( ) function from Chapter 13.
+
+Submission: Submit a zip file containing your PHP script; in addition submit .PNG screenshots that demonstrate each part of these security upgrades running in a browser window.
+
+![p](https://github.com/bell-kevin/chap13pursue/blob/main/chap13pursue/screenshots/1.PNG)
+
+![p](https://github.com/bell-kevin/chap13pursue/blob/main/chap13pursue/screenshots/2.PNG)
+
+![p](https://github.com/bell-kevin/chap13pursue/blob/main/chap13pursue/screenshots/3.PNG)
 
 == We're Using GitHub Under Protest ==
 
